@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="Screenshot 2026-07-10 223500.png" type="Image OCR">
+  <page number="1">
+    <image_statistics>
+      <tables>0</tables>
+      <logos>0</logos>
+      <figures>0</figures>
+      <charts>0</charts>
+      <icons>0</icons>
+      <photos>0</photos>
+      <diagrams>0</diagrams>
+    </image_statistics>
+    <block type="equation">
+      <text><![CDATA[\int \frac{x^{2}+x+1}{(x+2)(x^{2}+1)}\,dx]]></text>
+      <latex><![CDATA[\int \frac{x^{2}+x+1}{(x+2)(x^{2}+1)}\,dx]]></latex>
+    </block>
+  </page>
+</document>
